@@ -18,7 +18,6 @@ Transmitter code
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-//#define led 12
 #include "Wire.h"       
 #include "I2Cdev.h"     
 #include "MPU6050.h"
