@@ -1,11 +1,20 @@
 ***********************************************************
 */Gesture-Controlled-robotic-car-for-blind
 
-Transmitter code
-easymathsforyou@gmail.com
-https://www.youtube.com/channel/UCY5O7tihQh7VwO4iWww3iCg */
 
+easymathsforyou@gmail.com
+
+
+https://www.youtube.com/channel/UCY5O7tihQh7VwO4iWww3iCg 
+
+
+*/
+
+
+***********************************************************
+Transmitter code
 ************************************************************
+
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
